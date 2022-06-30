@@ -1,4 +1,4 @@
-# neural_network_scratch
+# Neural Network Scratch
 Implementation nerual network from scratch in python
 
 #### Sources:
