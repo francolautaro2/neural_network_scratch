@@ -1,5 +1,5 @@
 # Neural Network Scratch
-Implementation neural network from scratch in python
+Implementation of a neural network from scratch in python
 
 #### Sources:
   https://en.wikipedia.org/wiki/Neural_network 
