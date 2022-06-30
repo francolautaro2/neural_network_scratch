@@ -1,5 +1,6 @@
 # neural_network_scratch
 Implementation nerual network from scratch in python
 
-Sources:
+## Sources:
   https://en.wikipedia.org/wiki/Neural_network
+  https://en.wikipedia.org/wiki/Artificial_neural_network
